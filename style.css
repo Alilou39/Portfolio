@@ -1,20 +1,20 @@
-/* تغيير لون الخلفية إلى الأخضر */
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
     margin: 0;
     padding: 0;
-    background-color: #008000; /* أخضر */
+    background-color: #008000;
     color: white;
 }
 
-/* تصميم الهيدر */
+
 header {
-    background-color: #006400; /* أخضر غامق */
+    background-color: #006400; 
     padding: 20px;
 }
 
-/* صورة البروفايل */
+
 .profile-pic {
     width: 150px;
     border-radius: 50%;
@@ -22,7 +22,7 @@ header {
     border: 3px solid white;
 }
 
-/* الأقسام */
+
 section {
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.2); /* شفاف قليلاً */
@@ -32,15 +32,15 @@ section {
     border-radius: 10px;
 }
 
-/* المشاريع */
+
 .project img {
     width: 100%;
     border-radius: 5px;
 }
 
-/* الفوتر */
+
 footer {
-    background-color: #004d00; /* أخضر داكن */
+    background-color: #004d00;
     color: white;
     padding: 10px;
     margin-top: 20px;
